@@ -1,0 +1,6 @@
+Username,ID,Date,Session,Condition_Number,Condition_Description,Output_File,Stimuli_File,Procedure_File,Browser,DeviceType,OS,IP
+874529754,f52bv6za4t,2021-02-08T17:35:05+00:00,1,1,"Healthy A",Output_Session1_874529754_f52bv6za4t.csv,versionA_stim.csv,HEALTHYA.csv,DefaultProperties,unknown,unknown,::1
+836435,dejytrt7b5,2021-02-08T17:36:18+00:00,1,2,"Healthy B",Output_Session1_836435_dejytrt7b5.csv,versionB_stim.csv,HEALTHYA.csv,DefaultProperties,unknown,unknown,::1
+23423,512eq6ldit,2021-02-08T22:27:10+00:00,1,1,,Output_Session1_23423_512eq6ldit.csv,versionA_stim.csv,CANCERA.csv,DefaultProperties,unknown,unknown,::1
+123412,2jt6qef8cw,2021-02-08T22:30:06+00:00,1,1,,Output_Session1_123412_2jt6qef8cw.csv,versionA_stim.csv,CANCERA.csv,DefaultProperties,unknown,unknown,::1
+2323,ch7ltoe1tx,2021-02-08T22:48:13+00:00,1,1,,Output_Session1_2323_ch7ltoe1tx.csv,versionA_stim.csv,CANCERA.csv,DefaultProperties,unknown,unknown,::1
