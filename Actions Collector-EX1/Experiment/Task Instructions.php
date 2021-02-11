@@ -1,12 +1,11 @@
 <section class="instructions">
     <h2 class="textcenter">Task Instructions</h2>
     <!-- ## SET ## Change the instructions text to match your task.-->
-    <p>Welcome to the Experiment! This study will take approximately 30 minutes to complete. </p>
+    <p>In this study you will be studying some stuff then you will need to recall that stuff.
+       After each bunch of stuff there will be some kind of memory task. </p>
+    <p>Please pay close attention to the things we are showing you.
+    <p> As many paragraphs as you would like can go here.  Instructions are done.  Time for you to move onto the experiment </p>
 
-    <p>On the next screen, you will be presented with the task instructions. Please pay attention to things we will be showing you!</p>
-
-    <p>Press ENTER when you are ready to begin.</p>
- 
     <div class="textcenter" id="revealRC">
         <button class="collectorButton" type="button">Advance</button>
     </div>
