@@ -12,7 +12,7 @@
      * character |, which you can use by holding Shift and pressing the
      * backslash character \.  
      */
-    
+
     $texts = explode('|', $text);
     foreach ($texts as &$t) {
         $t = trim($t);
